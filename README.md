@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**nakseono/nakseono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Developer, SeonHo Kim
 
-Here are some ideas to get you started:
+### Focus on Front-End
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-End : HTML/CSS, JavaScript, React, Material-UI
+
+Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
+
+Tool : GitHub, Slack, Notion, Zeplin
+
+Resume : https://www.notion.so/nakseono/affec66f26734d9e9d37f62ce9dc2eaa
