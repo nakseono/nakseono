@@ -4,7 +4,7 @@
 
 ### Focus on Front-End
 
-Front-End : HTML/CSS, JavaScript, React, Material-UI
+Front-End : HTML/CSS, JavaScript, React, Material-UI, TypeScript(아직은 아주 기초적인 정도..)
 
 Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 
