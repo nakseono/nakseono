@@ -10,4 +10,4 @@ Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 
 Tool : GitHub, Slack, Notion, Zeplin
 
-Resume : https://www.notion.so/nakseono/affec66f26734d9e9d37f62ce9dc2eaa
+Resume(문서 내에 포트폴리오 첨부) : https://www.notion.so/nakseono/affec66f26734d9e9d37f62ce9dc2eaa
