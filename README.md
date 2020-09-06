@@ -10,5 +10,5 @@ Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 
 Tool : GitHub, Postman, Zeplin, Slack, Notion
 
-Resume : bit.ly/2GcjzEb <br>
+Resume : bit.ly/2GcjzEb <br><br>
 Portfolio : bit.ly/3gIqPnQ
