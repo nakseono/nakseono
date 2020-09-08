@@ -12,3 +12,5 @@ Tool : GitHub, Postman, Zeplin, Slack, Notion
 
 Resume : bit.ly/2GcjzEb <br>
 Portfolio : bit.ly/3h83vjv
+
+Focus : Only-Price refactoring
