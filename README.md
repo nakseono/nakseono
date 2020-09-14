@@ -12,6 +12,6 @@ Tool : GitHub, Postman, Zeplin, Slack, Notion
 
 ---
 
-Resume : [Resume Link](bit.ly/2GcjzEb)
+Resume : [Resume Link](https://bit.ly/2GcjzEb)
 
-Portfolio : [Portfolio Link](bit.ly/3h83vjv)
+Portfolio : [Portfolio Link](https://bit.ly/3h83vjv)
