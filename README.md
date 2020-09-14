@@ -10,7 +10,8 @@ Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 
 Tool : GitHub, Postman, Zeplin, Slack, Notion
 
-Resume : [Resume Link][bit.ly/2GcjzEb] <br>
-Portfolio : [Portfolio Link][bit.ly/3h83vjv]
+---
 
-Focus : Only-Price refactoring
+Resume : [Resume Link](bit.ly/2GcjzEb)
+
+Portfolio : [Portfolio Link](bit.ly/3h83vjv)
