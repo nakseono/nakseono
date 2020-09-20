@@ -15,3 +15,5 @@ Tool : GitHub, Postman, Zeplin, Slack, Notion
 Resume : [Resume Link](https://bit.ly/2GcjzEb)
 
 Portfolio : [Portfolio Link](https://bit.ly/3h83vjv)
+
+Email : nakseono@gmail.com
