@@ -18,4 +18,4 @@ Portfolio : [Portfolio Link](https://bit.ly/3nLcxYe)
 
 Email : nakseono@gmail.com
 
-Blog : [nakseono.github.io](nakseono.github.io)
+Blog : [nakseono.github.io](https://nakseono.github.io)
