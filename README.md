@@ -2,7 +2,7 @@
 
 ## Junior Developer, SeonHo Kim
 
-### Focus on Front-End
+### Focus on Front-End & Hope for a Fullstack Developer
 
 Front-End : React, JavaScript, Material-UI, HTML/CSS
 
