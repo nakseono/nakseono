@@ -8,7 +8,7 @@ Front-End : React, JavaScript, Material-UI, HTML/CSS
 
 Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 
-Tool : GitHub, Postman, Zeplin, Slack, Notion, Trello
+Tool : GitHub, Postman, Zeplin, Slack, Notion, Trello .. etc
 
 ---
 
