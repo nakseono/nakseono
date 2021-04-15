@@ -12,9 +12,9 @@ Tool : GitHub, Postman, Zeplin, Slack, Notion, Trello .. etc
 
 ---
 
-Resume : [Resume Link](https://bit.ly/2GcjzEb)
+Resume(이력서) : [Resume Link](https://bit.ly/2GcjzEb)
 
-Portfolio : [Portfolio Link](https://bit.ly/3nLcxYe)
+Portfolio(포트폴리오) : [Portfolio Link](https://bit.ly/3nLcxYe)
 
 Email : nakseono@gmail.com
 
