@@ -1,4 +1,4 @@
-# Hi, I'm SeonHo Kim :)
+# 안녕하세요! 😄
 
 ## Junior Developer, SeonHo Kim
 
