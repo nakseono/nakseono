@@ -2,7 +2,7 @@
 
 ## Junior Developer, SeonHo Kim
 
-Front-End : React, JavaScript, Material-UI, HTML/CSS
+Front-End : React, Redux, Styled-Components, JavaScript, HTML/CSS
 
 Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 
