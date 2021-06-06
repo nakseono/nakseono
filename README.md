@@ -17,4 +17,4 @@ Portfolio(포트폴리오) : [Portfolio Link](https://bit.ly/3nLcxYe)
 
 Email : nakseono@gmail.com
 
-Blog : [Notion](https://www.notion.so/nakseono/Blog-248fd550bd75414eb2925b2595f6d9aa) - 웹 블로그로 제작중입니다.
+Blog : https://nakseono.oopy.io/
