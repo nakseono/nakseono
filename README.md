@@ -9,7 +9,7 @@ Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
 Tool : GitHub, Postman, Zeplin, Slack, Notion, Trello .. etc
 
 ---
-### Last Updated : 21.06.11
+### Last Updated : 21.06.17
 
 Resume(이력서) : [Resume Link](https://drive.google.com/file/d/1lfgyz_lwbmSv4MnZmh9lT2huzELk7v8Z/view?usp=sharing) 
 
