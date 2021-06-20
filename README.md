@@ -1,6 +1,6 @@
 # 안녕하세요! 😄
 
-## Junior Developer, SeonHo Kim
+## Developer, SeonHo Kim
 
 Front-End : React, Redux, Styled-Components, JavaScript, HTML/CSS
 
