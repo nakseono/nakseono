@@ -2,9 +2,11 @@
 
 ## Developer, SeonHo Kim
 
-Front-End : React, Redux, Styled-Components, JavaScript, HTML/CSS
+Front-End : React, JavaScript, Styled-Components, HTML/CSS
 
-Back-End : Node.js, AWS(EC2, S3, RDS), MySQL
+Back-End : Node.js
+
+Experienced : Redux, AWS(EC2, S3, RDS), MySQL
 
 Tool : GitHub, Postman, Zeplin, Slack, Notion, Trello .. etc
 
