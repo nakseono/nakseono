@@ -6,9 +6,9 @@ Front-End : React, JavaScript, Styled-Components, HTML/CSS
 
 Back-End : Node.js
 
-Experienced : Redux, AWS(EC2, S3, RDS), MySQL
+Tool : Postman,  Slack, Notion, Trello .. etc
 
-Tool : GitHub, Postman, Zeplin, Slack, Notion, Trello .. etc
+Experienced : Redux, AWS(EC2, S3, RDS), MySQL
 
 ---
 ### Last Updated : 21.06.18
