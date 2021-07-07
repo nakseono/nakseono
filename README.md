@@ -8,7 +8,7 @@ Back-End : Node.js
 
 Tool : Postman,  Slack, Notion, Trello .. etc
 
-Experienced : Redux, AWS(EC2, S3, RDS), MySQL
+Experienced : Redux, Redux-Saga, AWS(EC2, S3, RDS), MySQL
 
 ---
 ### Last Updated : 21.07.03
