@@ -13,7 +13,6 @@ Tool : Postman,  Slack, Notion, Trello .. etc
 
 Experienced : Redux, AWS(EC2, S3, RDS), MySQL
 
----
 ## About Me.
 
 Resume(이력서) : [Resume Link](https://drive.google.com/file/d/1lfgyz_lwbmSv4MnZmh9lT2huzELk7v8Z/view?usp=sharing) 
